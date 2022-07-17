@@ -1,0 +1,15 @@
+C:\Users\irade\source\repos\StudentRegisterApp\bin\Debug\net6.0\StudentRegisterApp.exe
+C:\Users\irade\source\repos\StudentRegisterApp\bin\Debug\net6.0\StudentRegisterApp.deps.json
+C:\Users\irade\source\repos\StudentRegisterApp\bin\Debug\net6.0\StudentRegisterApp.runtimeconfig.json
+C:\Users\irade\source\repos\StudentRegisterApp\bin\Debug\net6.0\StudentRegisterApp.dll
+C:\Users\irade\source\repos\StudentRegisterApp\bin\Debug\net6.0\StudentRegisterApp.pdb
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.csproj.AssemblyReference.cache
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.AssemblyInfoInputs.cache
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.AssemblyInfo.cs
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.csproj.CoreCompileInputs.cache
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.dll
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\refint\StudentRegisterApp.dll
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.pdb
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\StudentRegisterApp.genruntimeconfig.cache
+C:\Users\irade\source\repos\StudentRegisterApp\obj\Debug\net6.0\ref\StudentRegisterApp.dll

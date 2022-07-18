@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8Ed5r2H3tVlJmXuEm/Rqn+kTFgB0w6EZ2+/rKJkwubA4thStRG3dAD2GsdCOGI64ZFGXrRdd5W9YZMpdh7fug==",
+  "dgSpecHash": "hR8IoZxvr5hkrLublFhmvD/mLZHF4VyAOnwDvgnS8PEoq2qsHQhJZwcTse0bqQwc7gzpyRRVy7i1pyLVDCWOkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iradakhf\\Desktop\\task\\Student_Registration\\StudentRegisterApp.csproj",
+  "projectFilePath": "C:\\Users\\iradakhf\\source\\repos\\StudentRegistration\\Student_Registration\\StudentRegisterApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

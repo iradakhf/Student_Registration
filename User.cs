@@ -29,7 +29,7 @@ namespace StudentRegisterApp
         public (int,string,string,string, RegistrationMonth) GetDetails()
         {
            
-            if (NotRobotCode.IsRobotCode)
+            if (NotRobotCode.IsRobotCode())
             {
                 return (Id, Name, Surname, NotRobotCode, Month);
             }

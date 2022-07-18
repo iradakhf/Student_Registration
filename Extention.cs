@@ -8,11 +8,12 @@ namespace StudentRegisterApp
 {
     public static class Extention
     {
-
-        public static bool IsRobotCode(this string robotCode)
+        
+        
+        public static bool IsRobotCode(this string robotCode, string notRobotCode)
         {
 
-            if (robotCode.Length==4)
+            if (notRobotCode.Length==4)
             {
                 return true;
             }

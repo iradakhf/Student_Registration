@@ -10,10 +10,10 @@ namespace StudentRegisterApp
     {
         
         
-        public static bool IsRobotCode(this string robotCode, string notRobotCode)
+        public static bool IsRobotCode(this string robotCode)
         {
 
-            if (notRobotCode.Length==4)
+            if (robotCode.Length==4)
             {
                 return true;
             }
